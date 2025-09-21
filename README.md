@@ -27,4 +27,4 @@ Foco em automação, análise de dados, geração de relatórios e otimização 
 
 ---
 
-**Este portfólio apresenta projetos que demonstram minhas habilidades em automação, análise de dados e criação de soluções práticas para um ambiente corporativo.**
+**Este portfólio apresenta projetos que demonstram minhas habilidades em automação, análise de dados e criação de soluções práticas em um ambiente corporativo.**

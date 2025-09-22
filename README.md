@@ -56,12 +56,7 @@ Foco em automação, análise de dados, geração de relatórios e otimização 
 - Todos os projetos foram criados com o objetivo de **facilitar fluxos de trabalho**, resolver problemas internos e otimizar processos.  
 - Cada projeto aborda um **problema específico**, mas contribuiu para meu aprendizado em múltiplas tecnologias.  
 - Durante 2 anos, adquiri experiência em **automação, integração de dados, relatórios dinâmicos, comunicação via email e apresentação visual de informações**.  
-- O portfólio apresenta códigos anonimizados e exemplos, mantendo a confidencialidade das informações originais dos projetos desenvolvidos para o Programa Computadores para Inclusão do Ministério das Comunicações.
-
-## 👨‍💻 Autor
-**Victor A. Lêla**  
-📍 Estudante de Engenharia da Computação (4º semestre)  
-📍 Estudante de Gestão Pública e Curioso para Automação de Processos  
+- O portfólio apresenta códigos anonimizados e exemplos, mantendo a confidencialidade das informações originais dos projetos desenvolvidos para o Programa Computadores para Inclusão do Ministério das Comunicações. 
 
 ---
 

@@ -12,7 +12,7 @@ Foco em automação, análise de dados, geração de relatórios e otimização 
 - 🌐 **Google Sites** – criação de dashboards e sites de apresentação  
 
 ## 📂 Projetos
-- ### 1. [Automatização de Planilhas](https://github.com/ProfissionalJV/excel-automation.git)
+### 1. [Automatização de Planilhas](https://github.com/ProfissionalJV/excel-automation.git)
 📊 Automação em **VBA** para integrar planilhas de anos diferentes, consolidar dados e gerar relatórios.  
 🔧 Tecnologias: Excel, VBA  
 ✅ Resultado: Base consolidada + relatório final de retiradas de lotes por empresa.  
@@ -51,6 +51,16 @@ Foco em automação, análise de dados, geração de relatórios e otimização 
 🌐 Site em **Google Sites** criado para evento com prefeitos(as), exibindo entregas e formações do programa **Computadores para Inclusão**.  
 🔧 Tecnologias: Google Sites  
 ✅ Resultado: Portal simples de consulta pública para visualizar entregas por estado.  
+
+---
+
+### 7. [Desafio Sumaúma Digital - Quiz Interativo e Residômetro](https://github.com/ProfissionalJV/Desafio-Sumauma-Digital.git)
+🌱 Interface web criada para apoiar ações do Desafio Sumaúma Digital, iniciativa do Ministério das Comunicações no multirão pré COP30.  
+🔧 Tecnologias: HTML, CSS, JavaScript e Power Bi  
+✅ Resultado: Interface interativa para educação ambiental e divulgação à comunicação institucional sobre a arrecadação de REEE.  
+ 
+
+---
 
 ## 📍 Observações
 - Todos os projetos foram criados com o objetivo de **facilitar fluxos de trabalho**, resolver problemas internos e otimizar processos.  
